@@ -8,3 +8,6 @@ A 2D game developed with Unity
 
 
 ![FtH3](https://github.com/iremyyilmz/FlyToHappiness/assets/134611467/8a3e8a33-c4b3-4b96-a3bf-fc7b6695b089)
+
+
+![FtH4](https://github.com/iremyyilmz/FlyToHappiness/assets/134611467/c41ab08a-3f3c-4ac1-847a-32c180c40f15)
